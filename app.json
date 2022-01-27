@@ -8,7 +8,7 @@
         "save restricted",
         "bot"
     ],
-    "repository": "https://github.com/groupdcbots/savecontentbot",
+    "repository": "https://github.com/Yeswanth0/savecontentbot",
     "website": "",
     "success_url": "https://t.me/groupdcbots",
     "env": {
